@@ -6,9 +6,9 @@ getting news from api and translate it to persian language
 
   - Real‑time News Fetching: Retrieves the latest headlines from NewsAPI.
 
-  Automatic Translation: Translates news titles into Persian instantly.
+  - Automatic Translation: Translates news titles into Persian instantly.
 
-  Cross‑platform UI: Presents translated headlines in a clean, responsive Flutter app.
+  - Cross‑platform UI: Presents translated headlines in a clean, responsive Flutter app.
 
 ## Download the released version
 
